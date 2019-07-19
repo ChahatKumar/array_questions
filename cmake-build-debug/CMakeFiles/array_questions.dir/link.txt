@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\array_questions.dir/objects.a
+C:\Users\rajendrak67gmail.com\Downloads\MinGW(1)\MinGW\bin\ar.exe cr CMakeFiles\array_questions.dir/objects.a @CMakeFiles\array_questions.dir\objects1.rsp
+C:\Users\rajendrak67gmail.com\Downloads\MinGW(1)\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\array_questions.dir/objects.a -Wl,--no-whole-archive  -o array_questions.exe -Wl,--out-implib,libarray_questions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\array_questions.dir\linklibs.rsp
